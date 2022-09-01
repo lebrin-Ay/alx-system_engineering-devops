@@ -1,5 +1,6 @@
-0 - A script that swicthes the current user to betty
+0-iam_betty - A script that swicthes the current user
 
-1 - A script to print the effective username of the current user
 
-2 - A script that prints all the groups the current user is part of
+1-who_am_i - A script to print the effective username of the current user
+
+2-groups - To print all groups the current user is part of
